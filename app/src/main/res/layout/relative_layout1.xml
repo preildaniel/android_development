@@ -14,4 +14,6 @@
     <TextView android:id="@+id/tv_hello8" android:layout_centerVertical="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Hello 8"/>
     <TextView android:id="@+id/tv_hello9" android:layout_alignParentEnd="true" android:layout_centerVertical="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Hello 9"/>
 
+    <TextView android:layout_centerVertical="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Hello"/>
+    
 </RelativeLayout>
